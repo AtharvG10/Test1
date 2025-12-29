@@ -1,2 +1,2 @@
 Update 1.
-bugfix 1
+feature 1.
